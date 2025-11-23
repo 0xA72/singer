@@ -12,5 +12,5 @@
 
 ### Запуск
 ```
-you@computer ~ % node singer
+node singer
 ```
